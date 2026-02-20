@@ -19,9 +19,9 @@ A professional command-line interface (CLI) application built with **TypeScript*
 ### Installation
 1. Clone the repository:
    
-   ```bash
+```bash
    git clone [url]
-   ```
+```
    
 2. Install dependencies:
 
