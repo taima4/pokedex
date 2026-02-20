@@ -18,23 +18,32 @@ A professional command-line interface (CLI) application built with **TypeScript*
 
 ### Installation
 1. Clone the repository:
+   
    ```bash
    git clone [https://github.com/YOUR_USERNAME/pokedex-cli.git](https://github.com/YOUR_USERNAME/pokedex-cli.git)
+   ```
    
 2. Install dependencies:
+
+```bash
 npm install
+```
 
 ### Usage
-npm run dev
 
+ ```bash
+npm run dev
+```
 
 ### Commands 
 
-help             Displays help menu and command descriptions.
-map              Displays the next 20 location areas.
-mapb             Displays the previous 20 location areas.
-explore <area>   Shows all Pokemon found in a specific area.
-catch <name>     Attempts to catch a Pokemon and add it to your collection.
-inspect <name>   View stats and types of a Pokemon you have caught.
-pokedex          Lists all Pokemon currently in your Pokedex.
-exit             Closes the application.
+| Command | Description |
+| :--- | :--- |
+| `help` | Displays help menu and command descriptions. |
+| `map` | Displays the next 20 location areas. |
+| `mapb` | Displays the previous 20 location areas. |
+| `explore <area>` | Shows all Pokemon found in a specific area. |
+| `catch <name>` | Attempts to catch a Pokemon and add it to your collection. |
+| `inspect <name>` | View stats and types of a Pokemon you have caught. |
+| `pokedex` | Lists all Pokemon currently in your Pokedex. |
+| `exit` | Closes the application. |
