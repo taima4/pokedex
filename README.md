@@ -20,7 +20,7 @@ A professional command-line interface (CLI) application built with **TypeScript*
 1. Clone the repository:
    
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/pokedex-cli.git](https://github.com/YOUR_USERNAME/pokedex-cli.git)
+   git clone [url]
    ```
    
 2. Install dependencies:
